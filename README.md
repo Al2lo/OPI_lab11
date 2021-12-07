@@ -1,5 +1,4 @@
 # OPI_lab11
-# mytest
 Alexandr
 Lomako
 ПОИТ
